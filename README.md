@@ -3,7 +3,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/charansaminepally">
+<a href="https://www.linkedin.com/in/sai-sahith-b4a793221">
   <img align="left" alt="Monesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/SahithPasumarthy">
